@@ -1,53 +1,85 @@
 version: 1
 project:
-  # id: ubcgif-YEAR-AUTHORS-CONFERENCE
-  # title: TITLE
-  # description: DESCRIPTION
+  id: ubcgif-2026-chang-huang-arias-etal-aem
+  title: Airborne Electromagnetic Characterization of Shallow Permafrost in the Canadian Arctic for Infrastructure Challenges
+  description: >
+    A 1,142 line-km RESOLVE frequency-domain AEM survey flown in 2024 along the
+    Inuvik–Tuktoyaktuk Highway (ITH), Northwest Territories, was inverted with
+    SimPEG (stitched 1D inversions) to map shallow permafrost resistivity.
+    Results at Hans Creek Bridge and Zed Creek are compared with borehole
+    temperatures, ERT, field observations and remote sensing to support
+    infrastructure hazard assessment.
   authors:
-    # - name: AUTHOR 1
-    #   email: EMAIL
-    #   corresponding: true
-    #   orcid: ORCID
-    #   affiliation:
-    #     id: ubc
-    #     name: Geophysical Inversion Facility, University of British Columbia, Vancouver, British Columbia
-    # - name: Lindsey J. Heagy
-    #   email: lheagy@eoas.ubc.ca
-    #   corresponding: true
-    #   orcid: 0000-0002-1551-5926
-    #   affiliation: ubc
-    # - name: Douglas W. Oldenburg
-    #   affiliation: ubc
-    #   email: doug@eos.ubc.ca
-    #   orcid: 0000-0002-4327-2124
+    - name: Pablo Chang Huang Arias
+      email: pchanghuang@eoas.ubc.ca
+      corresponding: true
+      # orcid: ORCID
+      affiliation:
+        id: ubc
+        name: Geophysical Inversion Facility, University of British Columbia, Vancouver, British Columbia
+    - name: Marco A. Couto Jr.
+      affiliation: ubc
+      # email: EMAIL
+      # orcid: ORCID
+    - name: Lindsey J. Heagy
+      email: lheagy@eoas.ubc.ca
+      orcid: 0000-0002-1551-5926
+      affiliation: ubc
+    - name: Duane G. Froese
+      # email: EMAIL
+      # orcid: ORCID
+      affiliation:
+        id: ualberta
+        name: Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta
+    - name: Alejandro Alvarez
+      # email: EMAIL
+      # orcid: ORCID
+      affiliation: ualberta
+    - name: Steve V. Kokelj
+      # email: EMAIL
+      # orcid: ORCID
+      affiliation:
+        id: ntgs
+        name: Northwest Territories Geological Survey, Government of Northwest Territories, Yellowknife, Northwest Territories
   # banner: banner.png
   thumbnail: thumbnail.png
-  # subject: Electromagnetics
+  subject: Electromagnetics
   venue:
-    # title: CONFERENCE NAME
-    # url: CONFERENCE URL
-  # license: CC-BY-4.0
-  # open_access: true
+    title: 9th International Airborne Electromagnetics Workshop (AEM 2026), Favignana, Italy
+    url: https://www.aem26.eurocongressi.it/
+  license: CC-BY-4.0
+  open_access: true
   # doi: DOI
-  # date: YYYY-MM-DD
+  date: 2026-09-07  # TODO: replace with the actual day of your talk (workshop runs 7–11 Sept 2026)
   abbreviations:
-    # DC: direct current
-    # EM: electromagnetics
+    AEM: airborne electromagnetics
+    EM: electromagnetics
+    FDEM: frequency-domain electromagnetics
+    ITH: Inuvik–Tuktoyaktuk Highway
+    HCB: Hans Creek Bridge
+    ZC: Zed Creek
+    ERT: electrical resistivity tomography
+    InSAR: interferometric synthetic aperture radar
+    LiDAR: light detection and ranging
+    NTGS: Northwest Territories Geological Survey
+    IP: induced polarization
   # github:
   # bibliography: []
-  # keywords:
-  #   - Controlled source electromagnetics (CSEM)
-  #   - Downhole methods
-  #   - Numerical modelling
-  #   - Electrical properties
-  #   - Magnetic properties
+  keywords:
+    - Airborne electromagnetics (AEM)
+    - Frequency-domain electromagnetics
+    - Permafrost
+    - Infrastructure
+    - Numerical modelling
+    - Electrical properties
+    - Inversion
 site:
   template: article-theme
   actions:
-    # - title: pdf
-    #   url: ARTICLE-NAME.pdf
-    #   static: true
-    # - title: slides
-    #   url: presentation/SLIDES-NAME.pdf
-    #   static: true
+    - title: pdf
+      url: AEM_extended_abstract_PCH.pdf
+      static: true
+    - title: slides
+      url: presentation/AEM26_Presentation.pdf
+      static: true
   # domains: []
