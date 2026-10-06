@@ -86,9 +86,9 @@ site:
   template: article-theme
   actions:
     - title: pdf
-      url: AEM_extended_abstract_PCH.pdf
+      url: AEM26_extended_abstract_PCH.pdf
       static: true
     - title: slides
-      url: presentation/AEM26_Presentation.pdf
+      url: presentation/AEM26_Presentation_PCH.pdf
       static: true
   # domains: []
