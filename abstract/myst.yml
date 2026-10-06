@@ -41,8 +41,8 @@ project:
       affiliation:
         id: ntgs
         name: Northwest Territories Geological Survey, Government of Northwest Territories, Yellowknife, Northwest Territories
-  banner: images/banner.png
-  thumbnail: images/thumbnail.png
+  banner: banner.png
+  thumbnail: thumbnail.png
   subject: Electromagnetics
   venue:
     title: 9th International Airborne Electromagnetics Workshop (AEM 2026), Favignana, Italy
