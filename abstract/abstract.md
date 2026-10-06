@@ -20,7 +20,7 @@ First, we build a starting and reference model for each sounding. A shallow L2 i
 
 To validate and corroborate the AEM-derived models, we use ground-based datasets, including Electrical Resistivity Tomography (ERT) profiles, borehole data and ground temperature measurements. Remote sensing datasets, such as satellite imagery and Interferometric Synthetic Aperture Radar (InSAR) products from public sources, could also provide near-surface constraints.
 
-[![Hans Creek Bridge resistivity and borehole temperatures](presentation/fig2_hans_creek.png)](presentation/fig2_hans_creek.png)
+[![Hans Creek Bridge resistivity and borehole temperatures](presentation/fig2_hans_creek.png)](presentation/fig2_method_workflow.png)
 
 
 **Figure 2:** *Inversion workflow along Line L740010: (a) high-frequency shallow inversion; (b) sounding-specific starting/reference model (active layer + background); (c) depth-varying smallness and smoothness weights; (d) final full-depth inversion.*
