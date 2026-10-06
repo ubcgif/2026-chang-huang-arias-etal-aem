@@ -8,7 +8,7 @@ The northern Northwest Territories in the Canadian Arctic contain some of the mo
 
 ## Method
 
-[![AEM survey lines along the ITH](figures/fig1_survey_map.png)](figures/fig1_survey_map.png)
+[![AEM survey lines along the ITH](presentation/fig1_survey_map.png)](presentation/fig1_survey_map.png)
 
 **Figure 1:** *Airborne electromagnetic (AEM) survey lines acquired along the Inuvik–Tuktoyaktuk Highway (ITH) corridor in the Northwest Territories, Canada, highlighting the Hans Creek Bridge and Zed Creek areas of interest.*
 
@@ -18,7 +18,7 @@ The AEM survey, in Figure 1, was conducted in August 2024 using the RESOLVE freq
 
 Bridges along the ITH are particularly vulnerable to ground hazards because they concentrate thermal disturbances. This study focuses on the Hans Creek Bridge (HCB) at km 57.3, which is founded on adfreeze pile foundations that require ground temperatures below −1 °C to maintain structural stability (Siemens & Schetselaar, 2026). Pre-construction data showed that the HCB had the highest ground temperatures at the base of the pier among all ITH bridge locations (Hoeve, 2023), making it a critical site for subsurface monitoring. Several temperature-monitoring boreholes installed by the Northwest Territories Geological Survey (NTGS) exist at the site. However, the dataset contains temporal gaps and limited spatial coverage due to the challenges of traditional borehole monitoring. We use these data here to compare with the AEM-derived results.
 
-[![Hans Creek Bridge resistivity and borehole temperatures](figures/fig2_hans_creek.png)](figures/fig2_hans_creek.png)
+[![Hans Creek Bridge resistivity and borehole temperatures](presentation/fig2_hans_creek.png)](presentation/fig2_hans_creek.png)
 
 **Figure 2:** *Hans Creek Bridge (HCB) Region: (a) Shallow subsurface resistivity (~2.25 m depth) derived from AEM flight line inversions; (b) subsurface resistivity cross-section along Line L690010; and (c) borehole temperature profiles from NGTS boreholes Cr30a-1 and Cr30a-3a (2021-12-09 to 2022-06-02).*
 
@@ -28,7 +28,7 @@ As shown in Figure 2a, the subsurface resistivity slice at 2.25 m depth reveals 
 
 The Zed Creek (ZC) area is another major region of interest located at km 67–68 along the ITH. Unlike the HCB site, this area has little to no existing public studies or borehole datasets. However, field observations, including ERT profiles, LiDAR surveys, and direct probing, indicate that construction of the ITH altered the local ZC stream system, causing ponding and rerouting of water flow. The dominant surface flow direction is now from south to north, running adjacent to the southeast (SE) side of the ITH (Figure 3a). These hydrological changes have likely contributed to permafrost degradation, subsidence, and washouts affecting both the highway embankment and surrounding ecosystems. Consequently, the region has become a priority area for monitoring due to ongoing infrastructure hazards and stability challenges.
 
-[![Zed Creek resistivity](figures/fig3_zed_creek.png)](figures/fig3_zed_creek.png)
+[![Zed Creek resistivity](presentation/fig3_zed_creek.png)](presentation/fig3_zed_creek.png)
 
 **Figure 3:** *Zed Creek (ZC) Region – (a) Shallow subsurface resistivity (~2 m depth) derived from AEM flight line inversions, including illustrative surface flow directions of the Zed Creek stream system before and after ITH construction (green and pink dashed lines); (b) subsurface resistivity cross-section along Line L700020.*
 
