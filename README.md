@@ -16,7 +16,7 @@ Permafrost degradation along the Inuvik–Tuktoyaktuk Highway (ITH), a 138 km al
 
 ## Materials
 
-- [Extended abstract (PDF)](AEM26_extended_abstract_PCH.pdf)
+- [Extended abstract (PDF)](presentation/AEM26_extended_abstract_PCH.pdf)
 - [Slides (PDF)](presentation/AEM26_Presentation_PCH.pdf)
 
 ## License
