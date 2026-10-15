@@ -72,7 +72,7 @@ site:
     - title: pdf
       url: presentation/AEM26_extended_abstract_PCH.pdf
       static: true
-    - title: slides
+    - title: pdf
       url: presentation/AEM26_presentation_PCH.pdf
       static: true
   # domains: []
