@@ -3,12 +3,7 @@ project:
   id: ubcgif-2026-chang-huang-arias-etal-aem
   title: Airborne Electromagnetic Characterization of Shallow Permafrost in the Canadian Arctic for Infrastructure Challenges
   description: >
-    A 1,142 line-km RESOLVE frequency-domain AEM survey flown in 2024 along the
-    Inuvik–Tuktoyaktuk Highway (ITH), Northwest Territories, was inverted with
-    SimPEG (stitched 1D inversions) to map shallow permafrost resistivity.
-    Results at Hans Creek Bridge and Zed Creek are compared with borehole
-    temperatures, ERT, field observations and remote sensing to support
-    infrastructure hazard assessment.
+    Presented at the 9th International Airborne Electromagnetics Workshop
   authors:
     - name: Pablo Chang Huang Arias
       email: pchanghuang@eoas.ubc.ca
