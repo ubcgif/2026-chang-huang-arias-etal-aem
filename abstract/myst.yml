@@ -66,13 +66,11 @@ project:
     - Frequency-domain electromagnetics
     - Permafrost
     - Infrastructure
-site:
-  template: article-theme
-  actions:
+  downloads:
     - title: pdf
       url: presentation/AEM26_extended_abstract_PCH.pdf
-      static: true
-    - title: pdf
+    - title: slides
       url: presentation/AEM26_presentation_PCH.pdf
-      static: true
+site:
+  template: article-theme
   # domains: []
