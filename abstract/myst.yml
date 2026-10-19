@@ -69,10 +69,10 @@ project:
 site:
   template: article-theme
   actions:
-    - title: pdf
+    - title: extended_abstract
       url: presentation/AEM26_extended_abstract_PCH.pdf
       static: true
-    - title: pdf
+    - title: presentation_slides
       url: presentation/AEM26_presentation_PCH.pdf
       static: true
   # domains: []
